@@ -7,6 +7,26 @@
     "sequelize-cli": "^6.6.0"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express-session": "^1.17.3",
     "sequelize": "^6.30.0"
-  }
+  },
+  "name": "pairproject",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephVetry/PairProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephVetry/PairProject/issues"
+  },
+  "homepage": "https://github.com/JosephVetry/PairProject#readme"
 }
